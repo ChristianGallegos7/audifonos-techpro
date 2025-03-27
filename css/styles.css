@@ -59,4 +59,17 @@ h3 {
 img {
   max-width: 100%;
   display: block;
+  width: 100%;
+}
+
+.text-center {
+  text-align: center;
+}
+
+/* Header */
+
+.header {
+  background-color: var(--negro);
+  padding: calc(var(--separacion) * 3) 0;
+  color: var(--blanco);
 }
